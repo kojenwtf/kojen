@@ -1,7 +1,6 @@
 {
-  "name": "@mirasa/kojen",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@kojenwtf/kojen",
+  "version": "1.1.4",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +14,6 @@
   "bugs": {
     "url": "https://github.com/kojenwtf/kojen/issues"
   },
-  "homepage": "https://github.com/kojenwtf/kojen#readme"
+  "homepage": "https://github.com/kojenwtf/kojen#readme",
+  "description": ""
 }
